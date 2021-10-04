@@ -1,7 +1,3 @@
-####                  #####################
-####Mula Austin Akech  #####  adm no 659410 
-### adm no  659410  #######################
-
 #navigate to csv file
 setwd("C:/Users/25470/Desktop/Coding/Rstudio") # set working directory folder
 H_NIKE <- read.csv("C:/Users/25470/Desktop/Coding/Rstudio/H_NIKE.csv")
